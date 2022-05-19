@@ -1,5 +1,13 @@
 # Electron
 
+sudo apt install curl 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+
+nvm install node 
+
+nvm install 12.18.3 
+_____________________________________________
+
 
 npm start 
 
