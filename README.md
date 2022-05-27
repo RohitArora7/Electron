@@ -7,6 +7,10 @@ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 nvm install 12.18.3
 
 sudo apt-get install build-essential
+
+npm install -g electron
+
+npm i electron-rebuild
 _____________________________________________
 
 
