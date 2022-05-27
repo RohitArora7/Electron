@@ -1,11 +1,12 @@
 # Electron
 
-sudo apt install curl 
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+sudo apt install curl
 
-nvm install node 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 
-nvm install 12.18.3 
+nvm install 12.18.3
+
+sudo apt-get install build-essential
 _____________________________________________
 
 
